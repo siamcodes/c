@@ -1,0 +1,10 @@
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\bin\Debug\ClientServer-ChatRealtime.exe.config
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\bin\Debug\ClientServer-ChatRealtime.exe
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\bin\Debug\ClientServer-ChatRealtime.pdb
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer-ChatRealtime.csprojAssemblyReference.cache
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer_ChatRealtime.Form1.resources
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer_ChatRealtime.Properties.Resources.resources
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer-ChatRealtime.csproj.GenerateResource.cache
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer-ChatRealtime.csproj.CoreCompileInputs.cache
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer-ChatRealtime.exe
+D:\c-network\ClientServer-ChatRealtime\ClientServer-ChatRealtime\obj\Debug\ClientServer-ChatRealtime.pdb

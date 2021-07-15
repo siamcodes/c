@@ -1,0 +1,10 @@
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\bin\Debug\Lab1-WinForm.exe.config
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\bin\Debug\Lab1-WinForm.exe
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\bin\Debug\Lab1-WinForm.pdb
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1-WinForm.csprojAssemblyReference.cache
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1_WinForm.Properties.Resources.resources
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1-WinForm.csproj.GenerateResource.cache
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1-WinForm.csproj.CoreCompileInputs.cache
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1-WinForm.exe
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1-WinForm.pdb
+D:\cs-network\Lab1-WinForm\Lab1-WinForm\obj\Debug\Lab1_WinForm.MainForm.resources

@@ -1,0 +1,12 @@
+D:\Lab9-winform\Lab9-winform\bin\Debug\Lab9-winform.exe.config
+D:\Lab9-winform\Lab9-winform\bin\Debug\Lab9-winform.exe
+D:\Lab9-winform\Lab9-winform\bin\Debug\Lab9-winform.pdb
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9-winform.csprojAssemblyReference.cache
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9_winform.Form1.resources
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9_winform.Properties.Resources.resources
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9-winform.csproj.GenerateResource.cache
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9-winform.csproj.CoreCompileInputs.cache
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9-winform.exe
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9-winform.pdb
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9_winform.MainForm.resources
+D:\Lab9-winform\Lab9-winform\obj\Debug\Lab9_winform.Form2.resources

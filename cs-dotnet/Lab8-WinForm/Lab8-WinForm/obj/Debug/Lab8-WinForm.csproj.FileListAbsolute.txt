@@ -1,0 +1,10 @@
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8-WinForm.csprojAssemblyReference.cache
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8_WinForm.Form1.resources
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8_WinForm.Properties.Resources.resources
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8-WinForm.csproj.GenerateResource.cache
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8-WinForm.csproj.CoreCompileInputs.cache
+D:\Lab8-WinForm\Lab8-WinForm\bin\Debug\Lab8-WinForm.exe.config
+D:\Lab8-WinForm\Lab8-WinForm\bin\Debug\Lab8-WinForm.exe
+D:\Lab8-WinForm\Lab8-WinForm\bin\Debug\Lab8-WinForm.pdb
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8-WinForm.exe
+D:\Lab8-WinForm\Lab8-WinForm\obj\Debug\Lab8-WinForm.pdb
